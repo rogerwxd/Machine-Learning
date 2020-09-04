@@ -1,0 +1,1 @@
+os arquivos do modelo do treino deverão estar nesta pasta.
